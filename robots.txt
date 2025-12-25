@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vovo-three.vercel.app/sitemap.xml
